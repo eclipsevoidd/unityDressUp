@@ -1,9 +1,10 @@
 /[Ll]ibrary/
 /[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Logs/
-/MemoryCaptures/
-/UserSettings/
-/[Aa]ssetStoreTools*/
+/[Obj]/
+/[Build]/
+/[Logs]/
+/[MemoryCaptures]/
+/.vs/
+/*.sln
+/*.csproj
+/*.unitypackage
