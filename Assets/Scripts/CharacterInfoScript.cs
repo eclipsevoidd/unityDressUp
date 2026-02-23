@@ -20,7 +20,7 @@ public class CharacterInfoHandler : MonoBehaviour
         // pārbaudām, vai lauki nav tukši
         if (string.IsNullOrEmpty(charName) || string.IsNullOrEmpty(yearString))
         {
-            resultText.text = "Lūdzu, aizpildi visus laukus!";
+            resultText.text = "Aizpildi visus laukus vispirms!";
             return;
         }
 
@@ -33,7 +33,7 @@ public class CharacterInfoHandler : MonoBehaviour
             // nevar būt vecāks par 150
             if (age < 0 || age > 150)
             {
-                resultText.text = "Ievadīts nederīgs dzimšanas gads!";
+                resultText.text = "Dzimšanas gads ir ārpus norādītā diapazona.";
             }
             else
             {

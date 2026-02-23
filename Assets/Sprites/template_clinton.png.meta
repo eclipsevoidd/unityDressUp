@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: bab3fcb43bead6d42925e0b2b21ea9b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3229136187912029998
+    second: template_clinton_0
+  - first:
+      213: -2837253840469594857
+    second: template_clinton_1
+  - first:
+      213: 7523641964732346137
+    second: template_clinton_2
+  - first:
+      213: 1308370696526531634
+    second: template_clinton_3
+  - first:
+      213: -623114753669953222
+    second: template_clinton_4
+  - first:
+      213: 1618381195239150244
+    second: template_clinton_5
+  - first:
+      213: -1208648176573440672
+    second: template_clinton_6
+  - first:
+      213: 1048561839755912012
+    second: template_clinton_7
+  - first:
+      213: 5174859205414864505
+    second: template_clinton_8
+  - first:
+      213: -7804468752138196518
+    second: template_clinton_9
+  - first:
+      213: 975398065903349021
+    second: template_clinton_10
+  - first:
+      213: 7958787839500646338
+    second: template_clinton_11
+  - first:
+      213: 6972664269786017312
+    second: template_clinton_12
+  - first:
+      213: -5035507191517852332
+    second: template_clinton_13
+  - first:
+      213: 2734544096197183612
+    second: template_clinton_14
+  - first:
+      213: -8487933071343333786
+    second: template_clinton_15
+  - first:
+      213: -7424479430649483640
+    second: template_clinton_16
+  - first:
+      213: -1270901752488801841
+    second: template_clinton_17
+  - first:
+      213: -3536526967197866769
+    second: template_clinton_18
+  - first:
+      213: 1237757092573455437
+    second: template_clinton_19
+  - first:
+      213: -6516656946590947271
+    second: template_clinton_20
+  - first:
+      213: 1105856990585120547
+    second: template_clinton_21
+  - first:
+      213: 6739531802205477388
+    second: template_clinton_22
+  - first:
+      213: 7205387642398518416
+    second: template_clinton_23
+  - first:
+      213: 4206452046692694173
+    second: template_clinton_24
+  - first:
+      213: -4218373529147452269
+    second: template_clinton_25
+  - first:
+      213: -8927483480859579763
+    second: template_clinton_26
+  - first:
+      213: -3230040626850708596
+    second: template_clinton_27
+  - first:
+      213: -8144074941674233048
+    second: template_clinton_28
+  - first:
+      213: 5286354310382345110
+    second: template_clinton_29
+  - first:
+      213: 391041798705020801
+    second: template_clinton_30
+  - first:
+      213: -7750473387559224325
+    second: template_clinton_31
+  - first:
+      213: 4736681793438547160
+    second: template_clinton_32
+  - first:
+      213: 8779525660850620138
+    second: template_clinton_33
+  - first:
+      213: 999881511146194068
+    second: template_clinton_34
+  - first:
+      213: 477776766501151278
+    second: template_clinton_35
+  - first:
+      213: -8455150431564256929
+    second: template_clinton_36
+  - first:
+      213: -6180297828519231310
+    second: template_clinton_37
+  - first:
+      213: -952971692515040007
+    second: template_clinton_38
+  - first:
+      213: -2799819260090917447
+    second: template_clinton_39
+  - first:
+      213: 8798214697538667671
+    second: template_clinton_40
+  - first:
+      213: 1770150040827978271
+    second: template_clinton_41
+  - first:
+      213: -9167862656040876584
+    second: template_clinton_42
+  - first:
+      213: -8584400874208481109
+    second: template_clinton_43
+  - first:
+      213: 6329360878756538266
+    second: template_clinton_44
+  - first:
+      213: -499162788261472296
+    second: template_clinton_45
+  - first:
+      213: 6845955414009093939
+    second: template_clinton_46
+  - first:
+      213: 1212298393204615815
+    second: template_clinton_47
+  - first:
+      213: -2085760372659599775
+    second: template_clinton_48
+  - first:
+      213: -7660751396321090714
+    second: template_clinton_49
+  - first:
+      213: 7213655140703400530
+    second: template_clinton_50
+  - first:
+      213: -7145998790328989123
+    second: template_clinton_51
+  - first:
+      213: 1706237241643496240
+    second: template_clinton_52
+  - first:
+      213: -4587594359156096777
+    second: template_clinton_53
+  - first:
+      213: -2699932950288854020
+    second: template_clinton_54
+  - first:
+      213: -7775910768520737726
+    second: template_clinton_55
+  - first:
+      213: -1826914715800614899
+    second: template_clinton_56
+  - first:
+      213: -2372435527535061725
+    second: template_clinton_57
+  - first:
+      213: -8875076622711138117
+    second: template_clinton_58
+  - first:
+      213: 4249944313555499404
+    second: template_clinton_59
+  - first:
+      213: 7986046078806105630
+    second: template_clinton_60
+  - first:
+      213: 730960304507976773
+    second: template_clinton_61
+  - first:
+      213: -2321678687206829618
+    second: template_clinton_62
+  - first:
+      213: -4983175608874536599
+    second: template_clinton_63
+  - first:
+      213: 481959207274371903
+    second: template_clinton_64
+  - first:
+      213: 4043354490361424982
+    second: template_clinton_65
+  - first:
+      213: -4901853454111440414
+    second: template_clinton_66
+  - first:
+      213: 1115537334263092524
+    second: template_clinton_67
+  - first:
+      213: 3634624371761512873
+    second: template_clinton_68
+  - first:
+      213: 2145694472765297102
+    second: template_clinton_69
+  - first:
+      213: 4553364005497600315
+    second: template_clinton_70
+  - first:
+      213: -7159678538721504322
+    second: template_clinton_71
+  - first:
+      213: -1438763866840396602
+    second: template_clinton_72
+  - first:
+      213: 3225141842397648574
+    second: template_clinton_73
+  - first:
+      213: -7740128608775371542
+    second: template_clinton_74
+  - first:
+      213: 1364220683126100680
+    second: template_clinton_75
+  - first:
+      213: 5099553749404535238
+    second: template_clinton_76
+  - first:
+      213: 3410406420675691762
+    second: template_clinton_77
+  - first:
+      213: 4109514767105191858
+    second: template_clinton_78
+  - first:
+      213: -5756932439053286958
+    second: template_clinton_79
+  - first:
+      213: -8781928310261751874
+    second: template_clinton_80
+  - first:
+      213: 7028341906540963166
+    second: template_clinton_81
+  - first:
+      213: 6108490203744423614
+    second: template_clinton_82
+  - first:
+      213: -6009338719914617502
+    second: template_clinton_83
+  - first:
+      213: 8584033706054921200
+    second: template_clinton_84
+  - first:
+      213: -3894332466366283992
+    second: template_clinton_85
+  - first:
+      213: 8939503069058490154
+    second: template_clinton_86
+  - first:
+      213: 3834632940428467288
+    second: template_clinton_87
+  - first:
+      213: 9076927381779572083
+    second: template_clinton_88
+  - first:
+      213: -223655308623922967
+    second: template_clinton_89
+  - first:
+      213: -2016917521294172663
+    second: template_clinton_90
+  - first:
+      213: 1418157521849658383
+    second: template_clinton_91
+  - first:
+      213: -7572879223620993287
+    second: template_clinton_92
+  - first:
+      213: 7028241480963672163
+    second: template_clinton_93
+  - first:
+      213: 2325304601957414410
+    second: template_clinton_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: template_clinton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e270bd3114230dc20800000000000000
+      internalID: 3229136187912029998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 982
+        height: 1517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d623d1aac00a8d0800000000000000
+      internalID: -2837253840469594857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_2
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1519
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fe7154188596860800000000000000
+      internalID: 7523641964732346137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1513
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c8ef86734482210800000000000000
+      internalID: 1308370696526531634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398235de604a57f0800000000000000
+      internalID: -623114753669953222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1451
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2d66d5f15a57610800000000000000
+      internalID: 1618381195239150244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1491
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d9ae813e40a3fe0800000000000000
+      internalID: -1208648176573440672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1409
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c436eaf007d3d8e00800000000000000
+      internalID: 1048561839755912012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c96d970bc0d740800000000000000
+      internalID: 5174859205414864505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1401
+        width: 224
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9aa201505f0b390800000000000000
+      internalID: -7804468752138196518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_10
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1392
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1da5c08f5f498d00800000000000000
+      internalID: 975398065903349021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1115
+        width: 214
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c772206f5b437e60800000000000000
+      internalID: 7958787839500646338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_12
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1365
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e67aae531e3c060800000000000000
+      internalID: 6972664269786017312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d47a973e84e1ab0800000000000000
+      internalID: -5035507191517852332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_14
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1277
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7889740e5d03f520800000000000000
+      internalID: 2734544096197183612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_15
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1297
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e4a45b7ddc43a80800000000000000
+      internalID: -8487933071343333786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e61fd5b43f6f890800000000000000
+      internalID: -7424479430649483640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_17
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1251
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9cb72f699dc5ee0800000000000000
+      internalID: -1270901752488801841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4e49de57bbbeec0800000000000000
+      internalID: -3536526967197866769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_19
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1225
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44af0d84856d2110800000000000000
+      internalID: 1237757092573455437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386d57a80f2095a0800000000000000
+      internalID: -6516656946590947271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_21
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1201
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3276538e21bc85f00800000000000000
+      internalID: 1105856990585120547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ad7ee6770a78d50800000000000000
+      internalID: 6739531802205477388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c272e82edaef360800000000000000
+      internalID: 7205387642398518416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1149
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9835d789d1506a30800000000000000
+      internalID: 4206452046692694173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_25
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1148
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394514900a35575c0800000000000000
+      internalID: -4218373529147452269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_26
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1170
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a6231f2153b1480800000000000000
+      internalID: -8927483480859579763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83cb72d9279c23d0800000000000000
+      internalID: -3230040626850708596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e85d5dfe6afe80800000000000000
+      internalID: -8144074941674233048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_29
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1126
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bd13bac37ec5940800000000000000
+      internalID: 5286354310382345110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f7420b1724d6500800000000000000
+      internalID: 391041798705020801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_31
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1099
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbf96d8489c07490800000000000000
+      internalID: -7750473387559224325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcf6ffbef21cb140800000000000000
+      internalID: 4736681793438547160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1079
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68d67921427d970800000000000000
+      internalID: 8779525660850620138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_34
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1045
+        width: 199
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4948951dfea40ed00800000000000000
+      internalID: 999881511146194068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_35
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1075
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e226c31107761a600800000000000000
+      internalID: 477776766501151278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f592f14da7549aa80800000000000000
+      internalID: -8455150431564256929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_37
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1032
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b04efc9edb2b3aa0800000000000000
+      internalID: -6180297828519231310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f463a27b4d56c2f0800000000000000
+      internalID: -952971692515040007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_39
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 873
+        width: 205
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddbfe873b0529d0800000000000000
+      internalID: -2799819260090917447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1007
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c96807a9891a70800000000000000
+      internalID: 8798214697538667671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12e1be5516d09810800000000000000
+      internalID: 1770150040827978271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_42
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 937
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d54d1ddc7535c080800000000000000
+      internalID: -9167862656040876584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_43
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 883
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0304313e41ed880800000000000000
+      internalID: -8584400874208481109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_44
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 827
+        width: 6
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a9815f2866d750800000000000000
+      internalID: 6329360878756538266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_45
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 627
+        width: 107
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7d498b61e9219f0800000000000000
+      internalID: -499162788261472296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_46
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 815
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9c287d28b10f50800000000000000
+      internalID: 6845955414009093939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_47
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 581
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aecb037f2f2d010800000000000000
+      internalID: 1212298393204615815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_48
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 593
+        width: 5
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c90dedf3ed03e0800000000000000
+      internalID: -2085760372659599775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66324b5813b8fa590800000000000000
+      internalID: -7660751396321090714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_50
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 545
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252fbc1812d0c1460800000000000000
+      internalID: 7213655140703400530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_51
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 562
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ac11916ff44dc90800000000000000
+      internalID: -7145998790328989123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f3b23bb5cda710800000000000000
+      internalID: 1706237241643496240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_53
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 528
+        width: 101
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04ae88c379550c0800000000000000
+      internalID: -4587594359156096777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_54
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 509
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf319ac5949e78ad0800000000000000
+      internalID: -2699932950288854020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ccf25ca5a661490800000000000000
+      internalID: -7775910768520737726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_56
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 485
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0845c1debe75a6e0800000000000000
+      internalID: -1826914715800614899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32591c8157a631fd0800000000000000
+      internalID: -2372435527535061725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_58
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 459
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8dde475d465d480800000000000000
+      internalID: -8875076622711138117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89baa406d5dafa30800000000000000
+      internalID: 4249944313555499404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e9327c89224de60800000000000000
+      internalID: 7986046078806105630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_61
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 409
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cfb1f2684e42a00800000000000000
+      internalID: 730960304507976773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec11176e88db7cfd0800000000000000
+      internalID: -2321678687206829618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96174ab8f2438dab0800000000000000
+      internalID: -4983175608874536599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_64
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 390
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b51d1785340b600800000000000000
+      internalID: 481959207274371903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 370
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c29f28c71ec1830800000000000000
+      internalID: 4043354490361424982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_66
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 367
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18aae214e19fbb0800000000000000
+      internalID: -4901853454111440414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25107e8b4f2b7f00800000000000000
+      internalID: 1115537334263092524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_68
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 341
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a182daeb97c07230800000000000000
+      internalID: 3634624371761512873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d1bd21c907cd10800000000000000
+      internalID: 2145694472765297102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_70
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 271
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39fbb0307cc03f30800000000000000
+      internalID: 4553364005497600315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb354897d46b3ac90800000000000000
+      internalID: -7159678538721504322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc8f41d2eb780ce0800000000000000
+      internalID: -1438763866840396602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_73
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 266
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb65c5a0b6102cc20800000000000000
+      internalID: 3225141842397648574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_74
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 235
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae40b1e0a0a859490800000000000000
+      internalID: -7740128608775371542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_75
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 220
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d8fcbb7faee210800000000000000
+      internalID: 1364220683126100680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c442dd1145c640800000000000000
+      internalID: 5099553749404535238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_77
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 188
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4061c0292345f20800000000000000
+      internalID: 3410406420675691762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_78
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 210
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfe68458ede70930800000000000000
+      internalID: 4109514767105191858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d14e4eb2744b10b0800000000000000
+      internalID: -5756932439053286958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_80
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 133
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfd6effab2502680800000000000000
+      internalID: -8781928310261751874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_81
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 117
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55ad5be9bfa98160800000000000000
+      internalID: 7028341906540963166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_82
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 139
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec324e977b5c450800000000000000
+      internalID: 6108490203744423614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2651d78e54a8a9ca0800000000000000
+      internalID: -6009338719914617502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb226dec2d902770800000000000000
+      internalID: 8584033706054921200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f77f0414d84f9c0800000000000000
+      internalID: -3894332466366283992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_86
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 60
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fdeb38dae7f0c70800000000000000
+      internalID: 8939503069058490154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_87
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 58
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c1042b75a573530800000000000000
+      internalID: 3834632940428467288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_88
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 64
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375ecf2bc59b7fd70800000000000000
+      internalID: 9076927381779572083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e837598eaa65ecf0800000000000000
+      internalID: -223655308623922967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_90
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 21
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90edff153387204e0800000000000000
+      internalID: -2016917521294172663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_91
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 41
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca56d90ce4ea310800000000000000
+      internalID: 1418157521849658383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe722d087ab7e690800000000000000
+      internalID: -7572879223620993287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_93
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3684184c364598160800000000000000
+      internalID: 7028241480963672163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: template_clinton_94
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06b04a2734254020800000000000000
+      internalID: 2325304601957414410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      template_clinton_0: 3229136187912029998
+      template_clinton_1: -2837253840469594857
+      template_clinton_10: 975398065903349021
+      template_clinton_11: 7958787839500646338
+      template_clinton_12: 6972664269786017312
+      template_clinton_13: -5035507191517852332
+      template_clinton_14: 2734544096197183612
+      template_clinton_15: -8487933071343333786
+      template_clinton_16: -7424479430649483640
+      template_clinton_17: -1270901752488801841
+      template_clinton_18: -3536526967197866769
+      template_clinton_19: 1237757092573455437
+      template_clinton_2: 7523641964732346137
+      template_clinton_20: -6516656946590947271
+      template_clinton_21: 1105856990585120547
+      template_clinton_22: 6739531802205477388
+      template_clinton_23: 7205387642398518416
+      template_clinton_24: 4206452046692694173
+      template_clinton_25: -4218373529147452269
+      template_clinton_26: -8927483480859579763
+      template_clinton_27: -3230040626850708596
+      template_clinton_28: -8144074941674233048
+      template_clinton_29: 5286354310382345110
+      template_clinton_3: 1308370696526531634
+      template_clinton_30: 391041798705020801
+      template_clinton_31: -7750473387559224325
+      template_clinton_32: 4736681793438547160
+      template_clinton_33: 8779525660850620138
+      template_clinton_34: 999881511146194068
+      template_clinton_35: 477776766501151278
+      template_clinton_36: -8455150431564256929
+      template_clinton_37: -6180297828519231310
+      template_clinton_38: -952971692515040007
+      template_clinton_39: -2799819260090917447
+      template_clinton_4: -623114753669953222
+      template_clinton_40: 8798214697538667671
+      template_clinton_41: 1770150040827978271
+      template_clinton_42: -9167862656040876584
+      template_clinton_43: -8584400874208481109
+      template_clinton_44: 6329360878756538266
+      template_clinton_45: -499162788261472296
+      template_clinton_46: 6845955414009093939
+      template_clinton_47: 1212298393204615815
+      template_clinton_48: -2085760372659599775
+      template_clinton_49: -7660751396321090714
+      template_clinton_5: 1618381195239150244
+      template_clinton_50: 7213655140703400530
+      template_clinton_51: -7145998790328989123
+      template_clinton_52: 1706237241643496240
+      template_clinton_53: -4587594359156096777
+      template_clinton_54: -2699932950288854020
+      template_clinton_55: -7775910768520737726
+      template_clinton_56: -1826914715800614899
+      template_clinton_57: -2372435527535061725
+      template_clinton_58: -8875076622711138117
+      template_clinton_59: 4249944313555499404
+      template_clinton_6: -1208648176573440672
+      template_clinton_60: 7986046078806105630
+      template_clinton_61: 730960304507976773
+      template_clinton_62: -2321678687206829618
+      template_clinton_63: -4983175608874536599
+      template_clinton_64: 481959207274371903
+      template_clinton_65: 4043354490361424982
+      template_clinton_66: -4901853454111440414
+      template_clinton_67: 1115537334263092524
+      template_clinton_68: 3634624371761512873
+      template_clinton_69: 2145694472765297102
+      template_clinton_7: 1048561839755912012
+      template_clinton_70: 4553364005497600315
+      template_clinton_71: -7159678538721504322
+      template_clinton_72: -1438763866840396602
+      template_clinton_73: 3225141842397648574
+      template_clinton_74: -7740128608775371542
+      template_clinton_75: 1364220683126100680
+      template_clinton_76: 5099553749404535238
+      template_clinton_77: 3410406420675691762
+      template_clinton_78: 4109514767105191858
+      template_clinton_79: -5756932439053286958
+      template_clinton_8: 5174859205414864505
+      template_clinton_80: -8781928310261751874
+      template_clinton_81: 7028341906540963166
+      template_clinton_82: 6108490203744423614
+      template_clinton_83: -6009338719914617502
+      template_clinton_84: 8584033706054921200
+      template_clinton_85: -3894332466366283992
+      template_clinton_86: 8939503069058490154
+      template_clinton_87: 3834632940428467288
+      template_clinton_88: 9076927381779572083
+      template_clinton_89: -223655308623922967
+      template_clinton_9: -7804468752138196518
+      template_clinton_90: -2016917521294172663
+      template_clinton_91: 1418157521849658383
+      template_clinton_92: -7572879223620993287
+      template_clinton_93: 7028241480963672163
+      template_clinton_94: 2325304601957414410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
