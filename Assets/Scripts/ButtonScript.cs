@@ -1,12 +1,11 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.SceneManagement; // Required for loading scenes
+using UnityEngine.SceneManagement;
 using DG.Tweening;
 
 [RequireComponent(typeof(AudioSource))]
 public class ButtonHoverEffect : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
 {
-    // 1. Define the types of buttons
     public enum ButtonType { Start, Quit, Settings }
 
     [Header("Button Logic")]
@@ -31,8 +30,11 @@ public class ButtonHoverEffect : MonoBehaviour, IPointerEnterHandler, IPointerEx
         m_AudioSource = GetComponent<AudioSource>();
         m_AudioSource.playOnAwake = false;
     }
+
     public void OnPointerEnter(PointerEventData eventData)
     {
+        if (SceneChanger.Instance != null && SceneChanger.Instance.IsTransitioning) return;
+
         transform.DOKill();
         transform.DOScale(originalScale * hoverScale, duration).SetEase(easeType);
 
@@ -48,6 +50,9 @@ public class ButtonHoverEffect : MonoBehaviour, IPointerEnterHandler, IPointerEx
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        if (SceneChanger.Instance != null && SceneChanger.Instance.IsTransitioning)
+            return;
+
         if (m_AudioSource && clickSound)
             m_AudioSource.PlayOneShot(clickSound);
 
