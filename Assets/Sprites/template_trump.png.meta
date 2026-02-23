@@ -108,11 +108,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1532
+        width: 559
+        height: 1383
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 0, z: 34, w: 30}
       customData: 
       outline: []
       physicsShape: []
@@ -128,12 +128,12 @@ TextureImporter:
       name: template_trump_1
       rect:
         serializedVersion: 2
-        x: 1019
+        x: 558
         y: 89
-        width: 5
+        width: 1
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bb833328194c78f478f2bd89062d7e32
     internalID: 0
     vertices: []
     indices: 
