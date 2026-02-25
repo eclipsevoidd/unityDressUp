@@ -1,4 +1,6 @@
-# Projekts: Prezidentu Skapis
+# Projekts: Prezidentu Skapis 🚪
+
+![Spēles logo](readme_bildes/plogo2.png)
 
 Unity UI darbs, kas ļauj lietotājam aptērpt ASV prezidentus.
 
@@ -27,14 +29,15 @@ Unity UI darbs, kas ļauj lietotājam aptērpt ASV prezidentus.
 
 ---
 
+## Izstrādes ekrānuzņēmumi
+![Sākuma ekrāns](readme_bildes/{91D014FA-4243-411B-9155-212E2CDED982}.png)
+![Spēles galvenā sadaļa](readme_bildes/{E6C4260C-680F-4FF6-A69A-821320401BA9}.png)
+![Obama](readme_bildes/{AFD5A5AF-1DF5-4589-BBE4-25A5C5BED153}.png)
+![Klintons](readme_bildes/{1C21C97C-6434-434B-9EBF-79412E875C59}.png)
+
+---
 ## Kā palaist?
 1. Lejupielādējiet arhivēto failu no Build sadaļas.
 2. Atarhivējiet mapi ar WinRAR vai 7-Zip
 3. Palaidiet `.exe` failu.
 
----
-*Projekts izstrādāts mācību nolūkos.*
----
-
-## Izstrādes ekrānuzņēmumi
-wip
