@@ -1,22 +1,27 @@
 using UnityEngine;
-using TMPro;
-using System.Collections.Generic;
+using TMPro; // Nepieciešams TextMeshPro darbināšanai
 
 public class CharacterSelector : MonoBehaviour
 {
-    [Header("Tēlu saraksts")]
-    [SerializeField] private List<GameObject> characterModels;
+    [Header("Tēlu iestatījumi")]
+    [SerializeField] private GameObject[] characters;
+
+    [Header("7. Prasība: Apraksti")]
+    [SerializeField] private TextMeshProUGUI descriptionDisplay; // Ievelc tekstu no Scroll View
+    [SerializeField][TextArea(3, 10)] private string[] charDescriptions; // Ieraksti 3 aprakstus
 
     public void OnCharacterChanged(int index)
     {
-        for (int i = 0; i < characterModels.Count; i++)
+        // 1. Pārslēdzam tēlu vizuāli
+        for (int i = 0; i < characters.Length; i++)
         {
-            characterModels[i].SetActive(false);
+            characters[i].SetActive(i == index);
         }
 
-        if (index >= 0 && index < characterModels.Count)
+        // 2. Nomainām tekstu Scroll View
+        if (index >= 0 && index < charDescriptions.Length)
         {
-            characterModels[index].SetActive(true);
+            descriptionDisplay.text = charDescriptions[index];
         }
     }
 }
